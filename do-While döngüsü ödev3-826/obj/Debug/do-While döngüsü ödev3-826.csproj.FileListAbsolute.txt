@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\bin\Debug\do-While döngüsü ödev3-826.exe.config
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\bin\Debug\do-While döngüsü ödev3-826.exe
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\bin\Debug\do-While döngüsü ödev3-826.pdb
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\obj\Debug\do-While döngüsü ödev3-826.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\obj\Debug\do-While döngüsü ödev3-826.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\obj\Debug\do_While_döngüsü_ödev3_826.Form1.resources
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\obj\Debug\do_While_döngüsü_ödev3_826.Properties.Resources.resources
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\obj\Debug\do-While döngüsü ödev3-826.csproj.GenerateResource.cache
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\obj\Debug\do-While döngüsü ödev3-826.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\obj\Debug\do-While döngüsü ödev3-826.exe
+C:\Users\User\source\repos\do-While döngüsü ödev3-826\do-While döngüsü ödev3-826\obj\Debug\do-While döngüsü ödev3-826.pdb
